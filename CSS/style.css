@@ -72,6 +72,16 @@ ul{
     padding: 30px;
 }
 
+.button{
+    border: 0px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.white-button{
+    background-color: white;
+}
+
 .background-color-2{
     background-color: #00008B;
 }
