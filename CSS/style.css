@@ -179,6 +179,34 @@ ul{
     color: white;
  }
 
+ .font-h2{
+    font-size: 45px;
+ }
+
+ .font-p{
+    font-size: 20px;
+ }
+
+ .margin-bottom{
+    margin-bottom: 25px;
+ }
+
+ .align-items-2{
+    ;
+ }
+
+ .py-p{
+    padding-bottom: 40px;
+ }
+
+ .container-3.square-3{
+
+ }
+
+ .vertical-align{
+    vertical-align: top;
+ }
+
 .background-color-3{
     background-color: white;
 }
@@ -193,25 +221,24 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 500px;
+
 
 }
 
 .square-2{
     width: 60%;
-    border: 2px dashed black;
     height: 200px;
     margin: 0 auto;
-    background-color: #1E8FFF ;
     margin: 30px 0px 30px
     
 }
 
 .square-3{
     width: 40%;
-    border: 2px dashed black;
     height: 200px;
     margin: 30px 0px 30px;
-    background-color: #FFC0CA ;
+    
     
 }
 
@@ -226,15 +253,18 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 500px;
 
 }
 
+
+
 .square-4{
     width: 40%;
-    border: 2px dashed black;
+    
     height: 200px;
     margin: 30px 0px 30px;
-    background-color: #FFC0CA ;
+    
     
 
     
@@ -242,11 +272,8 @@ ul{
 
 .square-5{
     width: 60%;
-    border: 2px dashed black;
     height: 200px;
     margin: 30px 0px 30px;
-    background-color: #1E8FFF ;
-    
     
 }
 
@@ -256,15 +283,27 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 700px;
 }
 
 .square-6{
     width: 100%;
-    border: 2px dashed black;
     height: 700px;
     margin: 30px 0px 30px;
-    background-color: #218B21;
+    
 }
+
+.button-3{
+    border: 0;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.back-col-button{
+    background-color: #7289DA;
+}
+
+
 
 .background-color-5{
     background-color: #23272A;
