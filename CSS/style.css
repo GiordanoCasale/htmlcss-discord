@@ -391,9 +391,6 @@ ul{
 
 .little-square{
     width: 100%;
-    border: 1px solid black;
-    height: 40px;
-    background-color: #20B3AA;
     display: flex;
     justify-content: space-between;
 
@@ -401,8 +398,6 @@ ul{
 
 .container-text-3{
     width: 40px;
-    border: 2px dashed black;
-    background-color: #FDB4C2;
     align-self: center;
     
 
@@ -416,7 +411,19 @@ ul{
 
 .container-text-4{
     width: 55px;
-    border: 2px dashed black;
-    background-color: #FDB4C2;
     align-self: center;
+}
+
+.container-hr{
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+hr{
+    border:1px solid #6E88DA ;
+}
+.button-4{
+    border: 0;
+    border-radius: 20px;
+    padding: 10px;
 }
